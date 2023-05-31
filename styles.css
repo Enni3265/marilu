@@ -1,0 +1,67 @@
+.ultimo {
+    visibility: hidden;
+}
+
+* {
+    padding: 0rem; 
+    margin: 0rem;
+    
+    text-decoration: none;
+}
+
+.couple {
+    margin-top: 2.5rem;
+    height: 30.625rem;
+}
+
+.indicacion {
+    color: rgba(0, 0, 0, 0.63);
+    font-size: 3.125rem;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #cecdcd;
+}
+
+
+
+.home {
+    background-color: rgba(255, 255, 255, 0);
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.in-flex {
+    background-color: rgba(255, 255, 255, 0);
+    flex: 1;
+    min-width: 18.75rem;
+}
+
+.in-flex:first-child {
+    flex: 2;
+    padding: 1.563rem;
+    background-color: rgba(255, 255, 255, 0);
+    margin: 1.25rem;
+    margin-bottom: 0rem;
+}
+
+.in-flex div {
+    padding: 1.563rem;
+    background-color: rgba(255, 255, 255, 0);
+    margin: 1.25rem;
+}
+
+#btn1 {
+    font-size: 0.8rem;
+    margin-left: 5rem;
+    margin-right: 12.5rem;
+    padding: 1.25rem;
+    border-radius: 2.5rem;
+    border-color: rgb(87, 20, 243);
+    box-shadow: red 0.18rem 0.18rem;
+}
+
+.btn1 {
+    color: rgb(119, 94, 179);
+}

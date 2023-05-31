@@ -1,0 +1,22 @@
+#header {
+    font-family: 'Lobster Two', cursive;
+    color: rgb(119, 94, 179);
+    text-align: center;
+    margin-top: -6.25rem;
+    margin-bottom: 2.188rem;
+    background-color: #ededed00;
+}
+
+#header-text {
+    font-size: 4.375rem;
+}
+
+.contenido {
+    margin-left: 1rem;
+    margin-right: 1rem;
+    padding-top: 5rem;
+}
+
+.couple {
+    padding-bottom: 2rem;
+}

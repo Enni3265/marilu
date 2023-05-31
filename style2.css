@@ -1,0 +1,96 @@
+#us {
+    font-size: 5rem;
+    margin-top: -3rem;
+}
+
+.tittle {
+    font-family: "Lobster Two", cursive;
+    font-size: 1.4rem;
+    color: rgb(87, 20, 243);
+}
+
+.first_year {
+    background-color: rgba(119, 94, 179, 0.267);
+    padding: 1.25rem;
+    border: 0.313rem;
+    border-style: inset;
+    border-color: rgb(87, 20, 243);
+    box-shadow: red 0.25rem 0.25rem;
+}
+
+#gallery {
+    background-color: rgba(255, 255, 255, 0);
+}
+
+.favs {
+    margin: 0.2rem;
+    flex: content;
+    min-height: 15rem;
+    min-width: 15rem;
+    max-height: 20rem;
+    max-width: 18rem;
+    margin-bottom: 0.938rem;
+    border: 0.313rem;
+    border-style: inset;
+    border-radius: 0.625rem;
+    border-color: rgb(87, 20, 243);
+    box-shadow: red 0.25rem 0.25rem;
+}
+
+.first_days {
+    background-color: rgba(119, 94, 179, 0.267);
+    padding: 1.25rem;
+    border: 0.313rem;
+    border-style: inset;
+    border-color: rgb(87, 20, 243);
+    box-shadow: red 0.25rem 0.25rem;
+}
+
+#firstPhoto {
+    flex: content;
+    min-height: 13rem;
+    min-width: 13rem;
+    max-height: 18rem;
+    max-width: 16rem;
+    margin-bottom: 0.938rem;
+    border: 0.313rem;
+    border-style: inset;
+    border-radius: 0.625rem;
+    border-color: rgb(87, 20, 243);
+}
+
+.decision {
+    background-color: rgba(119, 94, 179, 0.267);
+    padding: 1.25rem;
+    border: 0.313rem;
+    border-style: inset;
+    border-color: rgb(87, 20, 243);
+    box-shadow: red 0.25rem 0.25rem;
+}
+
+.confession {
+    background-color: rgba(119, 94, 179, 0.267);
+    padding: 1.25rem;
+    border: 0.313rem;
+    border-style: inset;
+    border-color: rgb(87, 20, 243);
+    box-shadow: red 0.25rem 0.25rem;
+}
+
+.itstime {
+    background-color: rgba(119, 94, 179, 0.267);
+    padding: 1.25rem;
+    border: 0.313rem;
+    border-style: inset;
+    border-color: rgb(87, 20, 243);
+    box-shadow: red 0.25rem 0.25rem;
+}
+
+.principal {
+    background-color: rgba(119, 94, 179, 0.267);
+    padding: 1.25rem;
+    border: 0.313rem;
+    border-style: inset;
+    border-color: rgb(87, 20, 243);
+    box-shadow: red 0.25rem 0.25rem;
+}
